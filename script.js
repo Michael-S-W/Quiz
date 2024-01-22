@@ -9,7 +9,7 @@ let submit = document.querySelector(".submit-div .submit");
 let score = document.querySelector(".footer .score");
 let correctScore = 0;
 let timer = document.querySelector(".footer .time");
-let timing = 120;
+let timing = 60;
 let timerDuration;
 
 function getQuestions() {
