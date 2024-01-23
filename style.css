@@ -24,8 +24,8 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  height: 600px;
-  width: 800px;
+  height: 75%;
+  width: 75%;
 }
 .header,
 .question {
